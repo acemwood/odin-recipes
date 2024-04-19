@@ -1,0 +1,27 @@
+* {
+    font-family: Arial, Verdana, sans-serif;
+    color: rgb(0, 115, 255);
+}
+
+h1 {
+    font-weight: 700;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+h2 {
+    font-family: "Brush Script MT", cursive;
+    font-size: 28px;
+    font-weight: 700;
+    color: white;
+    background-color: black;
+}
+
+.recipe {
+    color: rgb(0, 115, 255)
+}
+
+#description {
+    color: black;
+}
